@@ -1,0 +1,4 @@
+treamlit==1.8.1
+numpy
+pandas
+pillow
